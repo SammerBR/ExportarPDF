@@ -1,0 +1,48 @@
+package ExportarPDF;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  vclimg,
+  dbrtl,
+  vcldb,
+  QRWRunDXE10_3_w64;
+
+contains
+  UPrincipal in 'UPrincipal.pas',
+  SynCommons in 'Requisitos\SynCommons.pas',
+  SynCrypto in 'Requisitos\SynCrypto.pas',
+  SynGdiPlus in 'Requisitos\SynGdiPlus.pas',
+  SynLZ in 'Requisitos\SynLZ.pas',
+  SynPdf in 'Requisitos\SynPdf.pas',
+  SynTable in 'Requisitos\SynTable.pas',
+  SynZip in 'Requisitos\SynZip.pas';
+
+end.

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/20 20:07:22.000.295,=rtl.dcp</Transaction>
+    <Transaction>2019/11/20 20:07:34.000.087,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\ExportarPDF.dproj</Transaction>
+    <Transaction>2019/11/20 20:09:55.000.130,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\ExportarPDF.dproj=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\ExportarPDF.dproj</Transaction>
+    <Transaction>2019/11/20 21:41:22.000.136,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\UPrincipal.pas</Transaction>
+    <Transaction>2019/11/20 21:52:38.000.939,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\mORMotReport.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.163,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynCrypto.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.117,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynCommons.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.206,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynLZ.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.192,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynGdiPlus.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.174,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynFPCTypInfo.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.317,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynZip.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.247,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynPdf.pas</Transaction>
+    <Transaction>2019/11/20 21:52:39.000.291,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynTable.pas</Transaction>
+    <Transaction>2019/11/20 21:53:33.000.060,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\SynFPCTypInfo.pas=</Transaction>
+    <Transaction>2019/11/20 21:53:43.000.319,=vcl.dcp</Transaction>
+    <Transaction>2019/11/20 21:55:04.000.520,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Requisitos\mORMotReport.pas=</Transaction>
+    <Transaction>2019/11/20 22:54:16.000.125,=dbrtl.dcp</Transaction>
+    <Transaction>2019/11/20 22:54:16.000.145,=QRWRunDXE10_3_w64.dcp</Transaction>
+    <Transaction>2019/11/20 22:54:16.000.135,=vcldb.dcp</Transaction>
+    <Transaction>2019/11/20 22:54:16.000.115,=vclimg.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
