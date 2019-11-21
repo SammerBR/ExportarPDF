@@ -8,5 +8,5 @@ Passos:
 </br>
 2 - Informar o destino do arquivo .PDF
 </br>
-3 - Executar a procedure GerarPDF.
+3 - Executar a procedure GerarPDF()
 </br>
